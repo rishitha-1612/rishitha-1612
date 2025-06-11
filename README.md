@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on python and AI related projects
 - 📫 How to reach me rishitharasineni@gmail.com / 7259720707
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I blend code and creativity — building AI-powered health tools while designing with a touch of glitter and visual storytelling to make tech more human.
+
 
 <!---
 rishitha-1612/rishitha-1612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
