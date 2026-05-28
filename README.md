@@ -1,13 +1,15 @@
-- 👋 Hi, I’m Rishitha Rasineni
-- 👀 I’m interested in graphic designing, frontend development, software development
-- 🌱 I’m currently learning python, artificial intelligence and machine learning
-- 💞️ I’m looking to collaborate on python and AI related projects
-- 📫 How to reach me rishitharasineni@gmail.com 
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I blend code and creativity — building AI-powered health tools while designing with a touch of glitter and visual storytelling to make tech more human.
+# Hi, I'm Rishitha Rasineni
 
+Computer Science Engineering student passionate about Artificial Intelligence, Machine Learning, Frontend Development, Computer Vision, and Research.
 
-<!---
-rishitha-1612/rishitha-1612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I enjoy building AI-powered healthcare systems, and intelligent web-based solutions that solve real-world problems.
+
+---
+
+## About Me
+
+- BE Computer Science Engineering student at RVITM, Bangalore
+- Interested in AI/ML and Frontend Development
+- Passionate about building impactful and user-friendly applications
+
+---
