@@ -5,14 +5,33 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=760&height=44&lines=Aspiring%20AI%2FML%20%26%20Frontend%20Engineer%20%7C%20CSE%20Student;Building%20%26%20Learning%20Every%20Day" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2586C5&center=true&vCenter=true&width=760&height=44&lines=Aspiring%20AI%2FML%20%26%20Frontend%20Engineer%20%7C%20CSE%20Student;Building%20%26%20Learning%20Every%20Day" alt="Typing headlines" />
 </p>
 
 ### About Me
 
-- BE Computer Science Engineering student at RVITM, Bangalore  
-- Interested in AI/ML and Frontend Development  
-- Passionate about building impactful and user-friendly applications
+- BE Computer Science Engineering student at **RVITM, Bangalore**
+- Interested in **AI/ML, Machine Learning, and intelligent applications**
+- Passionate about **Frontend Development and UI/UX**
+- Love turning ideas into practical, user-friendly applications
+- Currently expanding my skills in **AI/ML, Full-Stack Development, and Cloud**
+- Always curious, always building, and always learning
+
+### Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rishitha-rasineni-16d2006/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://portfolio-tawny-ten-80.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:rishitharasineni@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+### What I'm Working On
+
+Exploring        → AI / ML / Deep Learning
+Building         → React & Full-Stack Applications
+Learning         → AWS, Docker & Cloud Technologies
+Improving        → DSA & Problem Solving
+Experimenting    → Modern UI/UX & Frontend Development
 
 ### Tech Stack
 
@@ -36,14 +55,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-</p>
-
-### Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/rishitha-rasineni-16d2006/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://portfolio-tawny-ten-80.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:rishitharasineni@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ### GitHub Stats
