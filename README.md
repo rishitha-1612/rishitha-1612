@@ -27,11 +27,11 @@
 
 ### What I'm Working On
 
-Exploring        → AI / ML / Deep Learning
-Building         → React & Full-Stack Applications
-Learning         → AWS, Docker & Cloud Technologies
-Improving        → DSA & Problem Solving
-Experimenting    → Modern UI/UX & Frontend Development
+- Exploring        → AI / ML / Deep Learning
+- Building         → React & Full-Stack Applications
+- Learning         → AWS, Docker & Cloud Technologies
+- Improving        → DSA & Problem Solving
+- Experimenting    → Modern UI/UX & Frontend Development
 
 ### Tech Stack
 
